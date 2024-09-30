@@ -1,0 +1,16 @@
+MANIFEST\.
+META\.json
+META\.yml
+Makefile$
+Makefile\.aperl
+Makefile\.old
+^IIS\..*
+
+/pm_to_blib$
+^blib/
+pp-\w*\.c$
+
+^xt/
+^\.git
+
+\.sw.$

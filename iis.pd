@@ -75,6 +75,7 @@ using the module this will guarantee correct file names!
 use strict;
 use warnings;
 
+our $VERSION = '0.001';
 EOD
 
 pp_add_exported('','iis iiscur iiscirc $stdimage $iisframe saoimage ximtool');
